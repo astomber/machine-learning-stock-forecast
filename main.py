@@ -10,7 +10,7 @@ from plotly import graph_objs as go
 
 
 
-st.sidebar.image("/home/stombya/Pictures/machine-learning-stock-forecast/AI stocks -logos_transparent.png", width=200)
+
 
 
 st.title('Stock Prediction App')
